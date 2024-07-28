@@ -1,0 +1,1 @@
+import{j as a,L as s}from"./index-LbvRizq6.js";const e="_logo_r6fwr_1",g="_logoTrackerPage_r6fwr_11",o={logo:e,logoTrackerPage:g},l=({styleBtn:r=!1})=>a.jsx(s,{className:r?o.logo:o.logoTrackerPage,to:"/",children:"AquaTrack"});export{l as L};
