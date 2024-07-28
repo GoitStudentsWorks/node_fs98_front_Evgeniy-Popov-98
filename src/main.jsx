@@ -15,7 +15,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor}>
-        <BrowserRouter>
+        <BrowserRouter basename='/node_fs98_front_Evgeniy-Popov-98'>
           <HelmetProvider>
             <App />
           </HelmetProvider>
